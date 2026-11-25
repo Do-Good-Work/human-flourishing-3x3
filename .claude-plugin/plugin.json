@@ -1,0 +1,13 @@
+{
+  "name": "human-flourishing-3x3",
+  "description": "Holds your AI agent to nine rules for honest persuasion and scores any draft with the Human Alignment Test.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Do Good Work",
+    "url": "https://dogoodwork.io"
+  },
+  "homepage": "https://github.com/Do-Good-Work/human-flourishing-3x3",
+  "repository": "https://github.com/Do-Good-Work/human-flourishing-3x3",
+  "license": "CC-BY-4.0",
+  "keywords": ["agents", "ethics", "persuasion", "sales", "skills"]
+}

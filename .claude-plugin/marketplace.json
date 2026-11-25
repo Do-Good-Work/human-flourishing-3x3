@@ -1,0 +1,15 @@
+{
+  "name": "human-flourishing-3x3",
+  "description": "A free standard for the AI agent that operates on behalf of your business: nine rules, one test, plain text.",
+  "owner": {
+    "name": "Do Good Work",
+    "url": "https://dogoodwork.io"
+  },
+  "plugins": [
+    {
+      "name": "human-flourishing-3x3",
+      "source": "./",
+      "description": "Holds your AI agent to nine rules for honest persuasion and scores any draft with the Human Alignment Test."
+    }
+  ]
+}

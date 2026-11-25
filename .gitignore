@@ -1,0 +1,7 @@
+# Local files that never ship
+.DS_Store
+*.swp
+*~
+scratch/
+drafts/
+.env
