@@ -1,8 +1,8 @@
 # The Human Flourishing 3x3 Matrix
 
-**A free standard for the AI agent that works in your business's name: nine rules in a 3x3 grid, and one test that checks any output against them.**
+**A free agent skillset based on a framework: nine rules in a 3x3 grid, plus one test that checks any output against them.**
 
-By [Do Good Work](https://dogoodwork.io). Plain text you can paste into any AI agent's instructions, or install as a skill. No code.
+Plain text you can paste into any AI agent's instructions, or install as a skill. No code.
 
 ## The problem
 
@@ -128,4 +128,4 @@ It's not a certification, a product, or a ranking of AI models. Nobody audits yo
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, change it, build on it. Credit Do Good Work (https://dogoodwork.io).
+[Apache License 2.0](LICENSE). Use it, change it, build on it.
